@@ -9,13 +9,13 @@
 
 ## Slides
 
-[So How Does Babel Even Work?](http://henryzoo.com/so-how-does-babel-even-work)
+### [So How Does Babel Even Work?](http://henryzoo.com/so-how-does-babel-even-work)
 
 ## Video
 
 > Will update with video link
 
-Livestream: http://www.reactrally.com/stream
+Livestream: http://www.reactrally.com/stream  
 Youtube link: https://youtu.be/HRJ_VjkmyiE?t=1h56m31s
 
 ## Links
