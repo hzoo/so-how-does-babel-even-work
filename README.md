@@ -18,7 +18,15 @@
 Livestream: http://www.reactrally.com/stream  
 Youtube link: https://youtu.be/HRJ_VjkmyiE?t=1h56m31s
 
-## Links
+## Getting involved in Babel
+- [Babel Org on Github](https://github.com/babel)
+- [Babel Proposals Repo](https://github.com/babel/proposals)
+- [Babel Meeting Notes](https://github.com/babel/notes)
+- [Babel Website Repo](https://github.com/babel/website)
+- [Babel Twitter](https://twitter.com/babeljs)
+- [Slack sign-up](slack.babeljs.io)
+
+## Links from the Talk
 
 - [ASTExplorer](http://astexplorer.net)
 - [Babel Github](https://github.com/babel/babel/)
