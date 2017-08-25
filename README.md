@@ -2,10 +2,10 @@
 
 ![imgur](http://i.imgur.com/1bh2uXr.png)
 
-> So How Does Babel Even Work?
-> As a compiler
-> As an open source project
-> As part of the JS community
+> So How Does Babel Even Work?  
+> As: a compiler  
+> As: an open source ~~project~~ community  
+> As: part of the JavaScript community
 
 ## Slides
 
