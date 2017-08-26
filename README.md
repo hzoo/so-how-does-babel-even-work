@@ -11,12 +11,9 @@
 
 ### [So How Does Babel Even Work?](http://henryzoo.com/so-how-does-babel-even-work)
 
-## Video
+## Video (from the livestream)
 
-> Will update with video link
-
-Livestream: http://www.reactrally.com/stream  
-Youtube link: https://youtu.be/HRJ_VjkmyiE?t=1h56m31s
+[![Video](http://i.imgur.com/p6pEZEK.jpg)](https://www.youtube.com/watch?v=HRJ_VjkmyiE&feature=youtu.be&t=2h27m13s)
 
 ## Getting involved in Babel
 - [Babel Org on Github](https://github.com/babel)
