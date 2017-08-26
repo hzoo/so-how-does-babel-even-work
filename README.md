@@ -2,19 +2,19 @@
 
 ![imgur](http://i.imgur.com/1bh2uXr.png)
 
-> As: a compiler  
-> As: an open source ~~project~~ community  
-> As: part of the JavaScript community
-
 ## Slides
 
 ### [So How Does Babel Even Work?](http://henryzoo.com/so-how-does-babel-even-work)
 
+> As: a compiler  
+> As: an open source ~~project~~ community  
+> As: part of the JavaScript community
+
 ## Video (from the livestream)
 
-[![Video](http://i.imgur.com/p6pEZEK.jpg)](https://www.youtube.com/watch?v=HRJ_VjkmyiE&feature=youtu.be&t=2h27m13s)
-
 > https://www.youtube.com/watch?v=HRJ_VjkmyiE&feature=youtu.be&t=2h27m13s
+
+[![Video](http://i.imgur.com/p6pEZEK.jpg)](https://www.youtube.com/watch?v=HRJ_VjkmyiE&feature=youtu.be&t=2h27m13s)
 
 ## Getting involved in Babel
 - [Babel Org on Github](https://github.com/babel)
