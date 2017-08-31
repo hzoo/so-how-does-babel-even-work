@@ -1,12 +1,12 @@
 # [React Rally 2017](http://www.reactrally.com/schedule)
 
-[![Video](http://i.imgur.com/p6pEZEK.jpg)](https://www.youtube.com/watch?v=Uk0vJvN27-w)
+[![Video](http://i.imgur.com/p6pEZEK.jpg)](https://www.youtube.com/watch?v=fntd0sPMOtQ)
 
 > As: a compiler, an open source ~~project~~ community, part of the JavaScript community
 
 ## [Slides](http://henryzoo.com/so-how-does-babel-even-work)
 
-## [Video](https://www.youtube.com/watch?v=Uk0vJvN27-w)
+## [Video](https://www.youtube.com/watch?v=fntd0sPMOtQ)
 
 ## Getting involved in Babel
 - [Babel Org on Github](https://github.com/babel)
