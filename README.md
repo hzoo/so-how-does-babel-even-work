@@ -14,7 +14,7 @@
 - [Babel Meeting Notes](https://github.com/babel/notes)
 - [Babel Website Repo](https://github.com/babel/website)
 - [Babel Twitter](https://twitter.com/babeljs)
-- [Slack sign-up](slack.babeljs.io)
+- [Slack sign-up](https://slack.babeljs.io)
 
 ## Links from the Talk
 
