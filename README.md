@@ -8,6 +8,11 @@
 
 ## [Video](https://www.youtube.com/watch?v=fntd0sPMOtQ)
 
+## Other Related Talks
+
+- React Boston 2017: https://github.com/hzoo/maintainer-heal-thyself
+- JSConf EU 2017: https://github.com/hzoo/maintaining-an-oss-project
+
 ## Getting involved in Babel
 - [Babel Org on Github](https://github.com/babel)
 - [Babel Proposals Repo](https://github.com/babel/proposals)
